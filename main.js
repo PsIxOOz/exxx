@@ -1,2 +1,3 @@
-console.log ("lorem12")
-console.log ("qwe")
+console.log ("aassdd")
+console.log ("qqwwee")
+console.log ("zxc")
