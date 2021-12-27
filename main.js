@@ -1,2 +1,2 @@
-console.log ("aassdd")
+console.log ("lorem12")
 console.log ("qwe")
