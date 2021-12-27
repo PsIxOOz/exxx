@@ -1,2 +1,2 @@
-console.log("123")
-console.log("000")
+console.log("321")
+console.log ("76590")
